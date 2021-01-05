@@ -33,9 +33,9 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 **账号充值如图**：
 注意，图片中的Servers，现在改名叫做：Products 了。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
+![](https://raw.githubusercontent.com/vpn69/tea/main/2021-01-05_205033.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
+![](https://raw.githubusercontent.com/vpn69/tea/main/2021-01-05_204934.png)
 
 **开通服务器步骤如图**
 
