@@ -57,7 +57,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **开通服务器时，当出现了ip，不要立马去ping或者用SSH去连接，再等5分钟之后，有个系统安装启动的时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统的密码获取方法如下图：**
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+![](https://raw.githubusercontent.com/vpn69/tea/main/2021-01-05_224721.png)
 
 ![](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/ss/Debian2.png)
 
