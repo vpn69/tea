@@ -35,9 +35,9 @@
 
 ***
 
-<li><a href="https://vpn6.cc">自建VPN/SOCKS5代理</a></li>
+<li><a href="https://vpn6.cc">自建VPN/SOCKS5代理</a>教程</li>
 
-**教程**
+
 
 **自建VPN：经典的SoftetherVPN 和新兴的 WireGuard**
 
