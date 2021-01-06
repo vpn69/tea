@@ -77,6 +77,8 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 <li><a href="https://github.com/vpn69/tea/releases/tag/android-fqnews-universal-release.apk">中国禁闻 安卓应用 (免费）</a></li>
 
+***
+
 本教程改编修订自 [Alvin9999的文章](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) ,感谢Alvin9999朋友。
 
 版权所有，转载必须保留文章所有链接。
