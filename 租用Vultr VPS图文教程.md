@@ -59,7 +59,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://raw.githubusercontent.com/vpn69/tea/main/2021-01-05_224721.png)
 
-![](https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/ss/Debian2.png)
+![](https://raw.githubusercontent.com/vpn69/tea/main/2021-01-05_224814.png)
 
 **如果需要删掉服务器时，参考下图**：
 
