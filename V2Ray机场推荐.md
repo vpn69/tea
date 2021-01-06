@@ -36,7 +36,10 @@
 ***
 
 <li><a href="https://vpn6.cc">自建VPN/SOCKS5代理</a></li>
+
 **自建VPN：经典的SoftetherVPN 和新兴的 WireGuard**
+
 **自建Scoks5代理：最简单的SSH代理和超强V2Ray代理**
+
 **对服务器端和客户端均有详细叙述和配图，可按主辅菜单对号选看**
 
