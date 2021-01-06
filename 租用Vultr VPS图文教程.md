@@ -76,8 +76,6 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个数据中心新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在IP地址被中共防火墙屏蔽，在中国大陆无法连接这个IP，但在国外是可以连通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，一般一段时间后就会被解封，那么这就是一个良性循环。
 
 <li><a href="https://github.com/vpn69/tea/releases/tag/android-fqnews-universal-release.apk">中国禁闻 安卓应用 (免费）</a></li>
-https://github.com/vpn69/tea/releases/tag/android-fqnews-universal-release.apk
-
 
 本教程改编修订自 [Alvin9999的文章](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) ,感谢Alvin9999朋友。
 
